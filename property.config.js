@@ -169,11 +169,11 @@ const propertyConfig = {
     },
     {
       type: 'video',
-      src: 'https://videos.pexels.com/video-files/3015527/3015527-hd_1920_1080_24fps.mp4',
+      src: 'https://assets.mixkit.co/videos/4196/4196-720.mp4',
       poster:
         'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=85',
-      alt: 'Walking tour of the primary living wing',
-      caption: 'A walk through the primary wing.',
+      alt: 'Panning view through the primary living wing',
+      caption: 'Through the primary wing.',
     },
     {
       type: 'image',
@@ -189,11 +189,11 @@ const propertyConfig = {
     },
     {
       type: 'video',
-      src: 'https://videos.pexels.com/video-files/3209828/3209828-uhd_2560_1440_25fps.mp4',
+      src: 'https://assets.mixkit.co/videos/4641/4641-720.mp4',
       poster:
         'https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1600&q=85',
-      alt: 'Primary suite at dusk with skyline beyond',
-      caption: 'Primary suite — skyline view.',
+      alt: 'The indoor pool with vaulted ceilings and view',
+      caption: 'Indoor pool, afternoon light.',
     },
     {
       type: 'image',
