@@ -295,15 +295,14 @@ button {
 }
 
 /* ===========================================================
-   SLIDE BASE — every section is 100svh and snap-aligned
+   SLIDE BASE — every section is 100dvh and snap-aligned
    =========================================================== */
 .reel {
   display: block;
 }
 
 .slide {
-  height: 100svh;
-  min-height: 600px;
+  height: 100dvh;
   width: 100%;
   scroll-snap-align: start;
   scroll-snap-stop: always;
